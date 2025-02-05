@@ -24,7 +24,7 @@
 Here are a few of my projects:
 
 - **[Inventory Manager](#)** - A full-fledged backend application for inventory management built with Spring Boot and Hibernate.
-- **[Project 2](#)** - A REST API project for XYZ functionality (add a brief description of any other notable projects).
+- **[JPEGVigilant](#)** - AI-Powered Malware Image Detection Built with Spring Boot, Hibernate, Machine Learning, and OpenCV, JPEGVigilant detects hidden malware in JPEG images using AI-driven analysis for enhanced cybersecurity.
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Digvijay Korake](https://www.linkedin.com/in/digvijay-korake-6728062b8)
