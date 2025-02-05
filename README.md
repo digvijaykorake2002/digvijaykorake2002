@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Digvijay Korake!
+# 👋 Hi, I'm Digvijay Dilip Korake!
 
 🚀 **Java Backend Developer | Spring Boot | Hibernate | REST APIs**
 
 🔹 **Engineering Graduate (2024)**  
 🔹 Completed an internship at **Kiran Academy, Pune** – Worked on the **Inventory Manager Project**  
 🔹 Proficient in **Java, J2EE, JDBC, Spring Boot, Hibernate, SQL, REST APIs**  
-🔹 Hands-on experience with **Git, GitHub, HTML, CSS, VS Code, Eclipse**  
+🔹 Hands-on experience with **Git, GitHub, Postman, HTML, CSS, VS Code, Eclipse, Intellij idea**  
 
 ## 💻 Technologies & Tools
 
 - **Languages**: Java, SQL, HTML, CSS
-- **Frameworks**: Spring Boot, Hibernate, J2EE
-- **Tools & Platforms**: Git, GitHub, VS Code, Eclipse, Docker
+- **Frameworks**: Spring Boot, Core Spring, Hibernate, J2EE
+- **Tools & Platforms**: Git, GitHub, Postman, VS Code, Eclipse, Intellij idea, Docker
 - **Databases**: MySQL, PostgreSQL
 
 ## 🔧 What I Do:
