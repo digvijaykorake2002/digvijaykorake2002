@@ -39,6 +39,7 @@ Description: An AI-driven system that detects hidden malware in JPEG images usin
 ## 📫 Let's Connect!
 - **LinkedIn**: [Digvijay Korake](https://www.linkedin.com/in/digvijay-korake-6728062b8)
 - **Portfolio**: [My Portfolio](https://digvijaykorake2002.github.io/Portfolio/)
+- **Email**: digvijaykorake2002@gmail.com
 
 ---
 
