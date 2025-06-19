@@ -34,7 +34,7 @@ Here are a few of my projects:
 
 ### 3️⃣JPEGVigilant - AI-Powered Malware Image Detection
 - Tech Stack: Java, Spring Boot, Hibernate, Machine Learning, Deep Learning, CNN, MySQL.
-Description: An AI-driven system that detects hidden malware in JPEG images using advanced image analysis.
+- Description: An AI-driven system that detects hidden malware in JPEG images using advanced image analysis.
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Digvijay Korake](https://www.linkedin.com/in/digvijay-korake-6728062b8)
