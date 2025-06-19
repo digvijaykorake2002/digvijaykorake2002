@@ -28,12 +28,12 @@ Here are a few of my projects:
 - Tech Stack: Spring Boot, Hibernate, MySQL
 - Description: Developed an inventory management system to track stock levels, orders, and suppliers.
 
-### 2️⃣ E-commerce Backend
-- Tech Stack: Java, Spring Boot, REST API, PostgreSQL
-- Description: Built a scalable backend for an e-commerce application, supporting authentication, product management, and orders.
+### 2️⃣ Bank Account Management System
+- Tech Stack: Java, Swing, AWT, JDBC, MySQL
+- Description: Developed a desktop-based banking system that allows users to create accounts, deposit and withdraw money, view balance, and track transaction history using a user-friendly GUI and MySQL database integration.
 
 ### 3️⃣JPEGVigilant - AI-Powered Malware Image Detection
-- Tech Stack: Java, Spring Boot, Machine Learning, OpenCV
+- Tech Stack: Java, Spring Boot, Hibernate, Machine Learning, Deep Learning, CNN, MySQL.
 Description: An AI-driven system that detects hidden malware in JPEG images using advanced image analysis.
 
 ## 📫 Let's Connect!
