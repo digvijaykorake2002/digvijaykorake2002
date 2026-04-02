@@ -1,47 +1,110 @@
 # 👋 Hi, I'm Digvijay Dilip Korake!
 
-🚀 **Java Backend Developer | Spring Boot | Hibernate | REST APIs**
-
-🔹 **Engineering Graduate (2024)**  
-🔹 Completed an internship at **Kiran Academy, Pune** – Worked on the **Inventory Manager Project**  
-🔹 Proficient in **Java, J2EE, JDBC, Spring Boot, Hibernate, SQL, REST APIs**  
-🔹 Hands-on experience with **Git, GitHub, Postman, HTML, CSS, VS Code, Eclipse, Intellij idea**  
-
-## 💻 Technologies & Tools
-
-- **Languages**: Java, SQL, HTML, CSS
-- **Frameworks**: Spring Boot, Core Spring, Hibernate, J2EE
-- **Tools & Platforms**: Git, GitHub, Postman, VS Code, Eclipse, Intellij idea, Docker
-- **Databases**: MySQL, PostgreSQL
-
-## 🔧 What I Do:
-- Design and develop scalable and secure backend systems.
-- Build efficient RESTful APIs for integration with frontend systems.
-- Optimize and manage databases for high-performance applications.
-
-## 📚 Projects
-
-Here are a few of my projects:
-
-## 📌 Featured Projects
-### 1️⃣ Inventory Manager
-- Tech Stack: Spring Boot, Hibernate, MySQL
-- Description: Developed an inventory management system to track stock levels, orders, and suppliers.
-
-### 2️⃣ Bank Account Management System
-- Tech Stack: Java, Swing, AWT, JDBC, MySQL
-- Description: Developed a desktop-based banking system that allows users to create accounts, deposit and withdraw money, view balance, and track transaction history using a user-friendly GUI and MySQL database integration.
-
-### 3️⃣JPEGVigilant - AI-Powered Malware Image Detection
-- Tech Stack: Java, Spring Boot, Hibernate, Machine Learning, Deep Learning, CNN, MySQL.
-- Description: An AI-driven system that detects hidden malware in JPEG images using advanced image analysis.
-
-## 📫 Let's Connect!
-- **LinkedIn**: [Digvijay Korake](https://www.linkedin.com/in/digvijay-korake-6728062b8)
-- **Portfolio**: [My Portfolio](https://digvijaykorake2002.github.io/Portfolio/)
-- **Email**: digvijaykorake2002@gmail.com
+🚀 **Java Backend Developer | Spring Boot | Microservices | Cloud & Distributed Systems**
 
 ---
 
-Feel free to explore my repositories, and don’t hesitate to reach out for collaborations or discussions!
+## 🔥 About Me
 
+* 💻 Backend-focused developer specializing in **scalable microservices architecture**
+* ⚙️ Experienced in building **secure REST APIs** using **Spring Boot & Spring Security (JWT, RBAC)**
+* 🚀 Skilled in **performance optimization** using **Redis caching & Kafka event-driven systems**
+* ☁️ Hands-on with **Docker, Kubernetes, and AWS** for production deployments
+* 🧪 Strong focus on **clean code, testing, and production-ready systems**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💡 Languages
+
+`Java` `SQL`
+
+### ⚙️ Backend & Frameworks
+
+`Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `Spring MVC`
+
+### 🧠 Architecture & Concepts
+
+`Microservices` `REST APIs` `Event-Driven Architecture` `JWT` `RBAC`
+
+### ⚡ Performance & Messaging
+
+`Apache Kafka` `Redis`
+
+### ☁️ DevOps & Cloud
+
+`Docker` `Kubernetes` `AWS` `CI/CD`
+
+### 🧪 Testing & Tools
+
+`JUnit` `Mockito` `Swagger` `Postman` `Git` `Maven`
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 Java Developer — Sofrego Pvt Ltd.
+
+📅 Jun 2024 – Present
+
+* Developed secure **REST APIs** using **Spring Boot & Spring Security (JWT, RBAC)**
+* Designed **microservices architecture** using **Kafka & Redis**, improving performance by **35%**
+* Optimized backend processing, accelerating system workflows by **60%**
+* Deployed **Dockerized applications on Kubernetes** for scalable production environments
+* Ensured reliability using **JUnit, Mockito & monitoring tools**
+
+---
+
+### 🧑‍💻 Java Developer Intern — Sofrego Pvt Ltd.
+
+📅 Jun 2023 – May 2024
+
+* Built backend services for a **Flight Booking System** using Spring Boot
+* Implemented **Kafka & Redis**, reducing latency by **50%**
+* Improved API performance by **30%**
+* Deployed applications using **Docker & Kubernetes**
+
+---
+
+## 🚀 Featured Projects
+
+### 📌 Digital Tax Filing & Compliance Platform
+
+**Tech Stack:** Spring Boot, Kafka, Redis, MySQL, Docker, Kubernetes
+
+* Built scalable **microservices-based backend system**
+* Implemented **JWT authentication & RBAC security**
+* Improved processing speed by **60%** and performance by **35%**
+
+---
+
+### ✈️ Flight Booking & Operations System
+
+**Tech Stack:** Spring Boot, Kafka, Redis, MySQL
+
+* Developed REST APIs for booking and scheduling
+* Designed **event-driven architecture using Kafka**
+* Reduced latency by **50%** and improved response time by **30%**
+
+---
+
+### 📦 Inventory Manager
+
+**Tech Stack:** Spring Boot, Hibernate, MySQL
+
+* Built inventory tracking system for managing stock and orders
+* Implemented CRUD operations and database integration
+
+---
+
+## 📫 Let's Connect!
+
+* 🔗 **LinkedIn**: https://www.linkedin.com/in/digvijay-korake-6728062b8
+* 💻 **GitHub**: https://github.com/digvijaykorake2002
+* 🌐 **Portfolio**: https://digvijaykorake2002.github.io/Portfolio-website/
+* 📧 **Email**: [digvijaydkorake@gmail.com](mailto:digvijaydkorake@gmail.com)
+
+---
+
+⭐ *Feel free to explore my repositories and connect for collaboration or backend development opportunities!*
