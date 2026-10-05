@@ -1,110 +1,146 @@
 # 👋 Hi, I'm Digvijay Dilip Korake!
 
-🚀 **Java Backend Developer | Spring Boot | Microservices | Cloud & Distributed Systems**
+🚀 **Java Backend Developer | Spring Boot | Microservices | Distributed Systems**
+
+Java Backend Developer with **3+ years of experience** building scalable and secure backend applications using **Java, Spring Boot, Microservices, Kafka, Redis, and Spring Cloud**.
+
+I focus on developing **production-ready REST APIs, event-driven systems, secure microservices, fault-tolerant services, and automated testing solutions**.
 
 ---
 
 ## 🔥 About Me
 
-* 💻 Backend-focused developer specializing in **scalable microservices architecture**
-* ⚙️ Experienced in building **secure REST APIs** using **Spring Boot & Spring Security (JWT, RBAC)**
-* 🚀 Skilled in **performance optimization** using **Redis caching & Kafka event-driven systems**
-* ☁️ Hands-on with **Docker, Kubernetes, and AWS** for production deployments
-* 🧪 Strong focus on **clean code, testing, and production-ready systems**
+- 💻 3+ years of experience in **Java Backend Development**
+- ⚙️ Experienced in building scalable **REST APIs and Microservices** using Java & Spring Boot
+- 🔐 Strong experience with **Spring Security, JWT, OAuth2, RBAC, and method-level security**
+- 🔄 Hands-on with **Spring Cloud, Eureka, API Gateway, and OpenFeign** for distributed systems
+- ⚡ Experienced in **Apache Kafka and Redis** for event-driven processing, caching, idempotency, and rate limiting
+- 🛡️ Worked with **Resilience4j, Circuit Breaker, and Spring AOP** for reliable and fault-tolerant services
+- 🧩 Familiar with distributed transaction patterns including **Saga, Outbox, and Optimistic Locking**
+- 🧪 Strong focus on automated testing using **JUnit 5, Mockito, and Testcontainers**
+- ☁️ Experienced with **Docker, Kubernetes, AWS, and CI/CD**
+- 🗄️ Worked with **MySQL, PostgreSQL, JPQL, database indexing, transactions, and locking**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages
-
+### 💻 Languages
 `Java` `SQL`
 
 ### ⚙️ Backend & Frameworks
+`Spring Boot` `Spring MVC` `Spring Data JPA` `Hibernate`  
+`Spring Security` `Spring Cloud` `Spring AOP`
 
-`Spring Boot` `Spring Security` `Spring Data JPA` `Hibernate` `Spring MVC`
+### 🏗️ Architecture & Distributed Systems
+`Microservices` `REST APIs` `Event-Driven Architecture`  
+`Eureka` `API Gateway` `OpenFeign`  
+`Saga Pattern` `Outbox Pattern` `Optimistic Locking`
 
-### 🧠 Architecture & Concepts
+### ⚡ Messaging & Performance
+`Apache Kafka` `Redis` `Spring Cache`  
+`Idempotency` `Rate Limiting` `Circuit Breaker` `Resilience4j`
 
-`Microservices` `REST APIs` `Event-Driven Architecture` `JWT` `RBAC`
+### 🔐 Security
+`Spring Security` `JWT` `OAuth2` `RBAC`
 
-### ⚡ Performance & Messaging
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `JPQL`  
+`Database Indexing` `Transaction Isolation` `Locking`
 
-`Apache Kafka` `Redis`
+### 🧪 Testing & Development Tools
+`JUnit 5` `Mockito` `Testcontainers`  
+`Git` `GitHub` `Maven` `Postman` `Swagger/OpenAPI` `Lombok` `DBeaver`
 
-### ☁️ DevOps & Cloud
-
-`Docker` `Kubernetes` `AWS` `CI/CD`
-
-### 🧪 Testing & Tools
-
-`JUnit` `Mockito` `Swagger` `Postman` `Git` `Maven`
+### ☁️ Cloud & DevOps
+`AWS` `Docker` `Kubernetes` `CI/CD`
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Java Developer — Sofrego Pvt Ltd.
+### 🏢 Java Developer — Visionary World Infotech Pvt. Ltd.
 
-📅 Jun 2024 – Present
+📅 **Aug 2023 – Present**
 
-* Developed secure **REST APIs** using **Spring Boot & Spring Security (JWT, RBAC)**
-* Designed **microservices architecture** using **Kafka & Redis**, improving performance by **35%**
-* Optimized backend processing, accelerating system workflows by **60%**
-* Deployed **Dockerized applications on Kubernetes** for scalable production environments
-* Ensured reliability using **JUnit, Mockito & monitoring tools**
-
----
-
-### 🧑‍💻 Java Developer Intern — Sofrego Pvt Ltd.
-
-📅 Jun 2023 – May 2024
-
-* Built backend services for a **Flight Booking System** using Spring Boot
-* Implemented **Kafka & Redis**, reducing latency by **50%**
-* Improved API performance by **30%**
-* Deployed applications using **Docker & Kubernetes**
+- Developed scalable **REST APIs and Microservices** using Java, Spring Boot, Spring MVC, Spring Data JPA, and Hibernate
+- Implemented secure authentication and authorization using **Spring Security, JWT, OAuth2, and RBAC**
+- Built service discovery and inter-service communication using **Eureka, API Gateway, and OpenFeign**
+- Implemented asynchronous and event-driven workflows using **Apache Kafka**
+- Used **Redis** for caching, idempotency, rate limiting, and improving service responsiveness
+- Improved service reliability using **Resilience4j Circuit Breaker** and Spring AOP
+- Implemented automated testing using **JUnit 5, Mockito, and Testcontainers**
+- Worked with **Docker, Kubernetes, AWS, and CI/CD pipelines** for production deployments
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📌 Digital Tax Filing & Compliance Platform
+### 🏦 FinEdge Digital Banking Platform
 
-**Tech Stack:** Spring Boot, Kafka, Redis, MySQL, Docker, Kubernetes
+A microservices-based digital banking platform covering customer onboarding, account management, fund transfers, payments, and notifications.
 
-* Built scalable **microservices-based backend system**
-* Implemented **JWT authentication & RBAC security**
-* Improved processing speed by **60%** and performance by **35%**
+**Tech Stack:**  
+`Java` `Spring Boot` `Microservices` `Kafka` `Redis` `PostgreSQL` `Docker` `Kubernetes`
 
----
+### Key Features
 
-### ✈️ Flight Booking & Operations System
-
-**Tech Stack:** Spring Boot, Kafka, Redis, MySQL
-
-* Developed REST APIs for booking and scheduling
-* Designed **event-driven architecture using Kafka**
-* Reduced latency by **50%** and improved response time by **30%**
-
----
-
-### 📦 Inventory Manager
-
-**Tech Stack:** Spring Boot, Hibernate, MySQL
-
-* Built inventory tracking system for managing stock and orders
-* Implemented CRUD operations and database integration
+- 🔐 Implemented **JWT and RBAC security** across distributed services
+- 🌐 Used **Eureka, API Gateway, and OpenFeign** for service discovery and communication
+- ⚡ Designed **Kafka-driven payment processing**
+- 🔒 Implemented **Redis-backed idempotency** to prevent duplicate transactions
+- 🚦 Implemented **rate limiting, retry handling, and Dead Letter Queues**
+- 🔄 Applied **Saga and Outbox patterns** for distributed transaction consistency
+- 🛡️ Used **Optimistic Locking** to handle concurrent transaction updates
 
 ---
 
-## 📫 Let's Connect!
+### 🧾 Digital Tax Filing & Compliance Platform
 
-* 🔗 **LinkedIn**: https://www.linkedin.com/in/digvijay-korake-6728062b8
-* 💻 **GitHub**: https://github.com/digvijaykorake2002
-* 🌐 **Portfolio**: https://digvijaykorake2002.github.io/Portfolio-website/
-* 📧 **Email**: [digvijaydkorake@gmail.com](mailto:digvijaydkorake@gmail.com)
+A microservices-based platform for taxpayer onboarding, tax calculation, return validation, and compliance workflows.
+
+**Tech Stack:**  
+`Java` `Spring Boot` `Microservices` `Kafka` `Redis` `PostgreSQL` `AWS`
+
+### Key Features
+
+- 🔐 Implemented secure APIs using **Spring Security, JWT, and RBAC**
+- 🌐 Used **Spring Cloud and API Gateway** for distributed service communication
+- 📩 Built asynchronous filing, notification, and audit workflows using **Apache Kafka**
+- ⚡ Implemented **Redis caching and rate limiting** for high-traffic endpoints
+- 🔄 Used the **Outbox Pattern** for reliable event publishing
+- 🛡️ Implemented **Resilience4j** for fault-tolerant service communication
+- 🧪 Added integration testing using **JUnit, Mockito, and Testcontainers**
 
 ---
 
-⭐ *Feel free to explore my repositories and connect for collaboration or backend development opportunities!*
+## 📊 What I Work On
+
+```text
+Java Backend Development
+        ↓
+Spring Boot & REST APIs
+        ↓
+Microservices Architecture
+        ↓
+Kafka + Redis
+        ↓
+Security & Distributed Transactions
+        ↓
+Testing & Fault Tolerance
+        ↓
+Docker + Kubernetes + AWS
+```
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 **LinkedIn:** [Digvijay Korake](https://www.linkedin.com/in/digvijay-korake-6728062b8)
+- 💻 **GitHub:** [digvijaykorake2002](https://github.com/digvijaykorake2002)
+- 🌐 **Portfolio:** [Portfolio Website](https://digvijaykorake2002.github.io/Portfolio-website/)
+- 📧 **Email:** [digvijaykorake1507@gmail.com](mailto:digvijaykorake1507@gmail.com)
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me for Java Backend, Spring Boot, and Microservices opportunities.**
